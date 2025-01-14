@@ -19,10 +19,7 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 
 ![화면 캡처 2025-01-14 195326](https://github.com/user-attachments/assets/a92a23e3-ec05-4dbc-ae83-c6f7994d0b37)
 
-<p>
-  <image src="https://github.com/user-attachments/assets/5e8b61f5-5cbc-4d57-ba8f-7cc0a1677edf" alt="image" width="500px"></image>
-  <image src="https://github.com/user-attachments/assets/572b56a4-9840-435f-a581-36967915fa32" alt="image" width="500px"></image>
-</p>
+
 
 
 ---
@@ -33,7 +30,8 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 ---
 ## 📃 공유 문서 활용
 <p>
-  <img src="https://github.com/user-attachments/assets/37c4cdd5-be98-4025-bc27-608d2cebb7ae" alt="image 1" width="85%">
+  <image src="https://github.com/user-attachments/assets/5e8b61f5-5cbc-4d57-ba8f-7cc0a1677edf" alt="image" width="100%"></image>
+  <image src="https://github.com/user-attachments/assets/572b56a4-9840-435f-a581-36967915fa32" alt="image" width="100%"></image>
 </p>
 
 ---
