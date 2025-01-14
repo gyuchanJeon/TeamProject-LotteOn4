@@ -1,69 +1,40 @@
-# LotteOn 
-
-
-<p>
-  <img src="https://github.com/user-attachments/assets/2fca8f11-5aca-4628-a425-42bffb99d009" alt="image 1" width="85%">
-</p>
-
-  ## 메인 페이지
-
-
-## 관리자 페이지
-<p>
-  <img src="https://github.com/user-attachments/assets/d56bc882-84e0-443c-a785-aff2e76a8943" alt="image 3" width="85%">
-</p>
-
+![화면 캡처 2025-01-14 195141](https://github.com/user-attachments/assets/3e504532-6bb3-4260-baac-395bff85e606)
 
 ## 📖 프로젝트 개요
 LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 플랫폼**을 개발하기 위해 설계되었습니다. 쇼핑몰의 기본적인 기능을 포함하며, 사용자 경험과 효율적인 백엔드 설계에 초점을 맞춘 웹 애플리케이션입니다.
 
----
-
-## 🎯 프로젝트 목표
-- **쇼핑몰의 필수 기능 구현**: 회원 관리, 상품 관리, 주문 및 장바구니, 리뷰 시스템 등
-- **실제 환경에 가까운 설계 및 구현**: 데이터베이스 설계, 클라우드 환경 대응
-- **사용자와 관리자 모두를 위한 플랫폼 개발**: 직관적인 UI/UX와 관리자 전용 기능 제공
-
----
-
-## 🛠️ 기술 스택
-<p>
-  <img src="https://github.com/user-attachments/assets/9b76f14d-8e6b-48aa-924e-36d0a43b7e07" alt="image 1" width="85%">
-</p>
-
-### Backend
-- **Java** / **Spring Boot** / **Spring Security**
-- **JPA** / **MySQL**
-- **Redis** (캐싱 및 성능 최적화)
-
-### Frontend
-- **HTML5** / **CSS3** / **JavaScript**
-- **Thymeleaf**
-
-### DevOps & Tools
-- **AWS** (클라우드 배포)
-- **GitHub** (버전 관리)
-- **DBeaver** (DB 관리)
+![화면 캡처 2025-01-14 195653](https://github.com/user-attachments/assets/4dccf286-c232-4643-8cd8-02b0b6be471c)
 
 ---
 
 ## 👩‍💻 팀원 소개
+![화면 캡처 2025-01-14 200126](https://github.com/user-attachments/assets/f67ff582-5517-408a-98fc-2300ef7650ad)
 
-| 이름       | 주요 담당 기능                                            |
-|------------|-----------------------------------------------------------|
-| **황수빈(팀장)**   | - 일정 관리<br>- DB 설계 및 AWS 배포<br>- board<br>- point, coupon, review<br>- 사용자 로그, 행동패턴 분석(연관상품)<br> |
-| **강은경**   | - 작업일지등 문서작업<br>- user<br>- 소셜 SNS 로그인<br>- config (terms)<br>- cart |
-| **강중원**   | - category<br>- banner, terms<br>- redis 캐싱처리<br>- 상품 검색, 목록<br>- 비동기식 처리 |
-| **전규찬**   | - product<br>- product option<br>- article (채용) |
-| **조수빈**   | - order<br>- 전반적인 ERD 작업 및 DB 담당 |
+---
 
+## 🎯 프로젝트 목표 및 방향성
+- **쇼핑몰의 필수 기능 구현**: 회원 관리, 상품 관리, 주문 및 장바구니, 리뷰 시스템 등
+- **실제 환경에 가까운 설계 및 구현**: 데이터베이스 설계, 클라우드 환경 대응
+- **사용자와 관리자 모두를 위한 플랫폼 개발**: 직관적인 UI/UX와 관리자 전용 기능 제공
+
+![화면 캡처 2025-01-14 195326](https://github.com/user-attachments/assets/a92a23e3-ec05-4dbc-ae83-c6f7994d0b37)
+
+<p>
+  <image src="https://github.com/user-attachments/assets/5e8b61f5-5cbc-4d57-ba8f-7cc0a1677edf" alt="image" width="500px"></image>
+  <image src="https://github.com/user-attachments/assets/572b56a4-9840-435f-a581-36967915fa32" alt="image" width="500px"></image>
+</p>
+
+
+---
+
+## 🛠️ 기술 스택
+![화면 캡처 2025-01-14 200040](https://github.com/user-attachments/assets/438c088d-3d14-412a-97fa-1fe4826ab1ad)
 
 ---
 ## 📃 공유 문서 활용
 <p>
   <img src="https://github.com/user-attachments/assets/37c4cdd5-be98-4025-bc27-608d2cebb7ae" alt="image 1" width="85%">
 </p>
-
 
 ---
 ## 📅 개발 일정
@@ -79,14 +50,15 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 ## 🏗️ 시스템 설계
 
 ### 아키텍처
-- **3계층 구조**: Controller, Service, Repository
+- **MVC 패턴**
 - **RESTful API** 설계
 - **ERD**
-<img src="./LotteERD.png" alt="ERD 다이어그램" width="500px">
+![화면 캡처 2025-01-14 200243](https://github.com/user-attachments/assets/4e5af5fe-b5a1-4d51-9fdf-e704599ad35a)
+
 
 ### 주요 기능
 #### 사용자
-- 회원가입, 로그인/로그아웃
+- 회원가입, 로그인/로그아웃, SNS 로그인
 - 상품 목록 조회 및 검색
 - 상품 상세보기 및 리뷰 작성
 - 장바구니 및 주문 기능
@@ -120,8 +92,8 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 
 ## 🤝 질문 및 답변
 프로젝트에 대한 문의는 아래 연락처로 부탁드립니다:
-- **최준혁**: (mailto:loveu9911111@gmail.com)
-- **GitHub Issues**: 프로젝트 관련 이슈나 버그는 [GitHub Issues](https://github.com/team1-lotteon/issues)에서 보고해주세요.
+- **황수빈**: (mailto:ghkdtnqls95@gmail.com)
+
 
 ---
 
