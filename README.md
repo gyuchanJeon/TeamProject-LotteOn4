@@ -1,7 +1,7 @@
 ![화면 캡처 2025-01-14 195141](https://github.com/user-attachments/assets/3e504532-6bb3-4260-baac-395bff85e606)
 
 ## 📖 프로젝트 개요
-LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 플랫폼**을 개발하기 위해 설계되었습니다. 쇼핑몰의 기본적인 기능을 포함하며, 사용자 경험과 효율적인 백엔드 설계에 초점을 맞춘 웹 애플리케이션입니다.
+LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 플랫폼**을 개발하기 위해 설계되었습니다. 쇼핑몰의 기본적인 기능을 포함하며, 사용자 경험과 효율적인 백엔드 설계에 초점을 맞춘 웹 애플리케이션입니다. **SpringBoot**와 **Thymeleaf**, **JPA**를 이용하여 개발되었습니다.
 
 ![화면 캡처 2025-01-14 195653](https://github.com/user-attachments/assets/4dccf286-c232-4643-8cd8-02b0b6be471c)
 
@@ -24,7 +24,7 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 
 ---
 
-## 🛠️ 기술 스택
+## 🛠️ 기술 스택 - SpringBoot / Thymeleaf / JPA / MySQL
 ![화면 캡처 2025-01-14 200040](https://github.com/user-attachments/assets/438c088d-3d14-412a-97fa-1fe4826ab1ad)
 
 ---
