@@ -1,10 +1,18 @@
 # LotteOn 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=🛒LotteOn%20Project🛒&fontSize=70&fontAlign=50)
 
-<p align="center">
-  <img src="./LotteERD.png" alt="ERD 다이어그램" width="300px">
+<p>
+  <img src="https://github.com/user-attachments/assets/2fca8f11-5aca-4628-a425-42bffb99d009" alt="image 1" width="85%">
 </p>
+
+  ## 메인 페이지
+
+
+## 관리자 페이지
+<p>
+  <img src="https://github.com/user-attachments/assets/d56bc882-84e0-443c-a785-aff2e76a8943" alt="image 3" width="85%">
+</p>
+
 
 ## 📖 프로젝트 개요
 LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 플랫폼**을 개발하기 위해 설계되었습니다. 쇼핑몰의 기본적인 기능을 포함하며, 사용자 경험과 효율적인 백엔드 설계에 초점을 맞춘 웹 애플리케이션입니다.
@@ -19,6 +27,10 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 ---
 
 ## 🛠️ 기술 스택
+<p>
+  <img src="https://github.com/user-attachments/assets/9b76f14d-8e6b-48aa-924e-36d0a43b7e07" alt="image 1" width="85%">
+</p>
+
 ### Backend
 - **Java** / **Spring Boot** / **Spring Security**
 - **JPA** / **MySQL**
@@ -39,15 +51,21 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 
 | 이름       | 주요 담당 기능                                            |
 |------------|-----------------------------------------------------------|
-| **황수빈(팀장)**   | - 일정 관리<br>- DB 설계<br>- board<br>- point, coupon, review<br>- config (info, version)<br>- 사용자 행동패턴 분석<br>- back서버 배포 |
-| **강은경**   | - 작업일지, 마일 스톤 등 문서작업<br>- user<br>- 소셜 SNS 로그인<br>- config (terms)<br>- cart |
+| **황수빈(팀장)**   | - 일정 관리<br>- DB 설계 및 AWS 배포<br>- board<br>- point, coupon, review<br>- 사용자 로그, 행동패턴 분석(연관상품)<br> |
+| **강은경**   | - 작업일지등 문서작업<br>- user<br>- 소셜 SNS 로그인<br>- config (terms)<br>- cart |
 | **강중원**   | - category<br>- banner, terms<br>- redis 캐싱처리<br>- 상품 검색, 목록<br>- 비동기식 처리 |
-| **전규찬**   | - product<br>- article (채용) |
+| **전규찬**   | - product<br>- product option<br>- article (채용) |
 | **조수빈**   | - order<br>- 전반적인 ERD 작업 및 DB 담당 |
 
 
 ---
+## 📃 공유 문서 활용
+<p>
+  <img src="https://github.com/user-attachments/assets/37c4cdd5-be98-4025-bc27-608d2cebb7ae" alt="image 1" width="85%">
+</p>
 
+
+---
 ## 📅 개발 일정
 **2024년 10월 18일 ~ 2024년 11월 15일 (4주)**
 
