@@ -34,10 +34,14 @@ LotteOn 프로젝트는 **롯데 e-커머스** 환경과 유사한 **쇼핑몰 �
 ---
 
 ## 👩‍💻 팀원 소개
-| 이름     | 역할                      | 주요 담당 기능              |
-|----------|---------------------------|-----------------------------|
-| **황수빈(팀장)** | 팀장 및 DB 설계    | 일정 관리, 게시판, 포인트, 쿠폰, 사용자 로그, 행동패턴 분석 |
 
+| 이름       | 주요 담당 기능                                            |
+|------------|-----------------------------------------------------------|
+| **황수빈(팀장)**   | - 프로젝트 및 일정 관리<br>- DB ERD 작성<br>- article (faq, qna, notice)<br>- point, coupon, review<br>- config (info, version)<br>- 사용자 행동패턴 분석 |
+| **강은경**   | - DB ERD 구상<br>- 작업일지, 마일 스톤 등 문서작업<br>- user<br>- 소셜 SNS 로그인<br>- config (terms)<br>- cart |
+| **강중원**   | - DB ERD 구상<br>- category<br>- banner, terms<br>- redis 캐싱처리<br>- 상품 검색, 목록<br>- 비동기식 처리 |
+| **전규찬**   | - DB ERD 구상<br>- product<br>- product option<br>- product detail<br>- article (채용) |
+| **조수빈**   | - DB ERD 구상<br>- order<br>- orderItems<br>- orderDelivery<br>- 전반적인 ERD 작업 및 DB 담당 |
 
 
 ---
